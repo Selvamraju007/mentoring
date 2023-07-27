@@ -375,3 +375,102 @@
     - Wang YiKe (@wangyikewxgm, wangyike.wyk@gmail.com)
 - Upstream Issue: [kubevela/kubevela#5365](https://github.com/kubevela/kubevela/issues/5365)
 
+
+### Mentoring Cloud Native Tools Deep Dive with UseCases ##
+
+About Me:
+
+I'm Selvam Raju ; You can call me - Selvam..
+Having 11+ years of professional experience in IT with Bachelor education (BE),
+𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 DevOps Consultant - DevOps and Cloud. Helped customers with containerizations (Docker, Kubernetes), Configuration management (Ansible), Iac (Terraform), CI/CD (Jenkins, FluxCD). I leverage my expertise in CNCF Landscape tool as well.
+I am incredibly passionate about DevOps ad Cloud. I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 CNCF 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future Leaders in the field of #CNCF.
+I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
+India Resident.
+
+Achievements:
+
+Recently based on my efforts my blog has been https://www.cncf.io/blog/2023/07/03/kubernetes-logging-best-practices/
+ Published in CNCF website, also the winner of   #KCDChennai2023 Blogathon- https://dev.to/kcdchennai/kubernetes-logging-best-practices-45ec
+
+
+Meet-up Group:
+
+𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 CNCF 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 and the co-organizer of below meet-up groups.
+
+Cloud Native Europe & UK - https://www.meetup.com/cloud-native-europe-uk/
+Cloudnloud Tech Community - https://www.meetup.com/cloudnloud/
+Cloud DevOps SRE Europe & UK - https://www.meetup.com/cloud-devops-sre-europe-uk/
+Data AI ML Europe & UK - https://www.meetup.com/data-ai-ml-europe-uk/
+
+Connect with Me & Community 
+I regularly write DevOps and Cloud Blogs on https://medium.com/@selvamraju007
+I consistently share my DevOps and Cloud Contents [https://www.linkedin.com/in/selvamraju007/]
+
+
+𝐓ECHNICAL SKILLS
+• DevOps, CI/CD, AWS
+• Docker, Kubernetes, Ansible, Jenkins, GitHub, Terraform, Crossplane, FluxCD, Linkerd, cert-manager, Falcon and CNCF Landscape tools
+• Programming : shell, JSON, YAML, Linux
+• Windows Server, VMWARE, NetBackup
+• JIRA, ServiceNow
+• Agile Service Delivery
+
+
+
+𝐓𝐨𝐨𝐥𝐬 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞 𝐜𝐨𝐯𝐞𝐫𝐞𝐝:
+
+𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐢𝐧𝐠 𝐚𝐧𝐝 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧
+1. Crossplane 
+2. volcano
+
+𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+1. Prometheus 
+2. Thanos
+
+𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞
+1. cert-manager
+2. Falco
+
+𝐂𝐈/𝐂𝐃
+1. ArgoCD
+2. Flux
+
+𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐌𝐞𝐬𝐡 𝐓𝐨𝐨𝐥𝐬
+1. Linkerd
+
+𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐭 𝐒𝐭𝐨𝐫𝐚𝐠𝐞
+1. Rook
+2. Longhorn
+
+𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐑𝐮𝐧𝐭𝐢𝐦𝐞
+1. CRI-O
+2. Containerd
+
+𝐀𝐩𝐩 𝐃𝐞𝐟𝐢𝐧𝐢𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐁𝐮𝐢𝐥𝐝 𝐓𝐨𝐨𝐥𝐬
+1. Buildpacks
+2. KubeVirt
+
+𝐂𝐡𝐚𝐨𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
+1. Chaos Mesh
+2. ChaosBlade
+
+𝐊𝐞𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
+1. SPIFFE
+2. Athenz
+
+I am planning to start brainstorming Cloud Native Tools series Deep Drive with concept and hands-on demo.
+
+𝐖𝐡𝐨 𝐚𝐫𝐞 𝐚𝐥𝐥 𝐜𝐚𝐧 𝐥𝐞𝐚𝐫𝐧?
+
+1. Infrastructure Background
+2. Cloud Engineers
+3. DevOps Engineers
+4. Automation Lovers
+5. AWS/AZURE Cloud experts
+
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐞 𝐭𝐚𝐤𝐞𝐚𝐰𝐚𝐲 𝐟𝐫𝐨𝐦 𝐭𝐡𝐢𝐬 𝐜𝐚𝐫𝐞𝐞𝐫 𝐒𝐞𝐫 :
+
+1. Learning Links/mediums
+2. GitHub link for code which is used to do hands-on demo
+3. Will also explain 6-7 end to end architecture covering above mentioned tools
